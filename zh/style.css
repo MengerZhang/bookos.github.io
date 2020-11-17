@@ -1,8 +1,13 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
 #header {
 	color:white;
 	text-align:center;
 	padding:1px;
-	background-color: black;
+	background-color: #3e3e3e;
+	border-radius: 5px;
 }
 
 #text_bar {
